@@ -1189,10 +1189,10 @@ main{padding:20px;}
   display:flex;
   justify-content:space-between;
   align-items:center;
-  gap:10px;
+  gap:1px;
   flex-wrap:wrap;
   color:var(--muted);
-  font-size:13px;
+  font-size:1px;
 }
 .footer-content a{color:var(--secondary);text-decoration:none;font-weight:600;}
 .social-icons{display:flex;gap:8px;}
@@ -1254,4 +1254,5 @@ main{padding:20px;}
   .categories-bar{top:110px;}
   main{padding-top:24px;}
 }
+
 
